@@ -1,0 +1,50 @@
+PONG:
+    DuelingPDQN:
+        Mean: 19.32
+        Median: 20.0
+        Max: 21
+        Min: 16
+
+    DDQN:
+        Mean: 18.8
+        Median: 19.0
+        Max: 21
+        Min: 15
+
+    DQN:
+        Mean: 18.8
+        Median: 19.0
+        Max: 21
+        Min: 15
+
+    Random:
+        Mean: -20.12
+        Median: -20.0
+        Max: -18
+        Min: -21
+
+
+Boxing:
+    DuelingPDQN:
+        Mean: 86.52
+        Median: 87.0
+        Max: 100
+        Min: 61
+
+    DDQN:
+        Mean: 10.64
+        Median: 9.0
+        Max: 41
+        Min: -5
+
+    DQN:
+        Mean: 25.80
+        Median: 27.0
+        Max: 43
+        Min: 8
+
+    Random:
+        Mean: -0.48
+        Median: -1.0
+        Max: 8
+        Min: -10
